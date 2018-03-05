@@ -7,7 +7,7 @@ Please update SMTP settings (`EMAIL_*`) in `rest_email_signup/setting.py`, you c
 
 
 ## How to run
-You might want to use `virtualenv` to kepp the simplicity of the enviornment.
+You might want to use `virtualenv` to keep the simplicity of the environment.
 
 ```
 pip install -r requirements
